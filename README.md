@@ -1,5 +1,5 @@
 # spring-security-lombok-thymleaf
-Spring Boot + Spring MVC + Spring Security + MySQL
+> Spring Boot + Spring MVC + Spring Security + MySQL
 
 # Spring Security Login Tutorial #
 ## How to run ##
